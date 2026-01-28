@@ -29,4 +29,4 @@ Automated tests run on:
 - Every push to `main`
 - Every pull request
 
-## 📂 Project Structure
+
